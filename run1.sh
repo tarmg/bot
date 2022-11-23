@@ -15,4 +15,4 @@ unzip AutoRclone.zip
 cd /root/bot/AutoRclone
 pwd
 ls
-python3 rclone_sa_magic.py -s 0ADAKqMg3ZjDyUk9PVA -d 0AFFxLtxsi356Uk9PVA -b 1 -e 100
+python3 rclone_sa_magic.py -s 0ADAKqMg3ZjDyUk9PVA -d 0AMQ7ObpZ-iWGUk9PVA -b 1 -e 100
